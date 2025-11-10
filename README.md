@@ -1,131 +1,119 @@
-🚀 Frontend Development Training Repository
+# 🌟 FRONTEND DEVELOPMENT JOURNEY
 
-Mentors: Sahil Kumar & Deepak Prasad
+**Mentors:** **Sahil Kumar & Deepak Prasad**
 
-This repository documents my complete learning journey in Frontend Web Development, covering everything from the basics of HTML & CSS to advanced concepts like Responsive Design, Flexbox, CSS Grid, and Bootstrap.
-Each session includes hands-on practice tasks and mini-projects to build a strong foundation in web development.
+This repository tracks my complete journey in **Frontend Web Development**, from **HTML & CSS basics** to **Responsive Design, Flexbox, CSS Grid**, and **Bootstrap**.  
+Each session includes **hands-on tasks** to strengthen practical skills.
 
-📘 Overview
+## 📖 OVERVIEW
 
-The goal of this training was to understand how websites are built — from structure (HTML), to styling (CSS), and finally making them responsive using modern tools like Bootstrap.
+The goal of this training was to understand **how websites are built** — starting with **structure (HTML)**, **styling (CSS)**, and finally making pages **responsive using Bootstrap**.
 
-We learned how to design and style interactive, mobile-friendly web pages that work seamlessly across different devices.
+I learned how to create **interactive, mobile-friendly web pages** that work smoothly on any device.
 
-🗓️ Learning Journey
-📍 9th October – Getting Started with Web Development
+## 🗓️ LEARNING JOURNEY
 
-What I Learned:
+### 🖥️ 9TH OCTOBER – GETTING STARTED WITH WEB DEVELOPMENT
 
-The 3-layer structure of a web application: Frontend, Backend, and Database
+**WHAT I LEARNED:**  
+- The 3-layer structure: **Frontend, Backend, Database**  
+- HTML Basics: **headings, paragraphs, tables, images**  
+- Understanding **localhost, ports, and IP rendering**  
+- Setting up **VS Code** and using **Live Server**
 
-HTML Basics – headings, paragraphs, tables, and images
+**💡 PRACTICE TASK:**  
+Create a **timetable** using the `<table>` tag and preview it in the browser with Live Server.
 
-Understanding localhost, ports, and IP rendering
+---
 
-Setting up VS Code and using the Live Server extension
+### 📋 10TH OCTOBER – HTML ELEMENTS & FORMS
 
-💡 Practice Task:
-Create a timetable using the <table> tag and preview it in the browser with Live Server.
+**WHAT I LEARNED:**  
+- Difference between **block and inline elements**  
+- Using **attributes** and designing page layouts  
+- Creating **tables, lists, dropdowns**  
+- Making **HTML forms** with input types like text, password, checkbox
 
-🧩 10th October – Exploring HTML Elements & Forms
+**💡 PRACTICE TASK:**  
+Build a **registration form** with various input fields and a submit button.
 
-What I Learned:
+---
 
-Difference between block and inline elements
+### 🎨 13TH OCTOBER – INTRODUCTION TO CSS
 
-How to use attributes and create page layouts
+**WHAT I LEARNED:**  
+- CSS **syntax, selectors, and types** (inline, internal, external)  
+- Working with **colors, backgrounds, box model**  
+- Display properties: **inline, block, inline-block**  
+- Basics of **positioning and layout**
 
-Building tables, lists, and dropdowns
+**💡 PRACTICE TASK:**  
+Design a **simple webpage** using internal & external CSS with **margins, padding, and positioning**.
 
-Creating HTML forms with input types like text, password, checkbox, etc.
+---
 
-💡 Practice Task:
-Build a registration form with different input fields and submit button.
+### 🔲 30TH OCTOBER – FLEXBOX, GRID & BOX MODEL
 
-🎨 13th October – Introduction to CSS
+**WHAT I LEARNED:**  
+- Using **Flexbox and CSS Grid** for layouts  
+- Deep dive into **Box Model**: borders, padding, width, height  
+- Adding **gradients, shadows, CSS transformations**
 
-What I Learned:
+**💡 PRACTICE TASK:**  
+Create a **calculator layout** using CSS Grid.
 
-CSS syntax, selectors, and types (inline, internal, and external)
+---
 
-Working with colors, backgrounds, and the box model
+### ✨ 31ST OCTOBER – ADVANCED CSS & ANIMATIONS
 
-Understanding display properties (inline, block, inline-block)
+**WHAT I LEARNED:**  
+- Using **pseudo-classes** for interactivity  
+- Adding **tooltips, transitions, animations**  
+- Understanding **box-sizing** and UI enhancements
 
-Basics of positioning and layout
+**💡 PRACTICE TASK:**  
+Animate an element to **move diagonally** using CSS **transitions and transforms**.
 
-💡 Practice Task:
-Design a simple webpage using internal & external CSS with margins, padding, and positioning.
+---
 
-🧱 30th October – Flexbox, Grid & Box Model
+### 📱 3RD NOVEMBER – RESPONSIVE WEB DESIGN
 
-What I Learned:
+**WHAT I LEARNED:**  
+- Principles of **Responsive Design**  
+- Using **media queries** and **CSS filters**  
+- Making layouts adapt to **different screen sizes**
 
-How to use Flexbox and CSS Grid for layouts
+**💡 PRACTICE TASK:**  
+Build a **responsive card UI** with title, image, and hover effects.
 
-Deep dive into the Box Model – borders, padding, width, height
+---
 
-Applying gradients, shadows, and CSS transformations
+### 🏗️ 5TH NOVEMBER – INTRODUCTION TO BOOTSTRAP
 
-💡 Practice Task:
-Create a calculator layout using CSS Grid.
+**WHAT I LEARNED:**  
+- **Bootstrap basics** and grid system  
+- Building **responsive pages** using prebuilt classes
 
-💫 31st October – Advanced CSS & Animations
+**💡 PRACTICE TASK:**  
+Create a **portfolio webpage** using Bootstrap.
 
-What I Learned:
+---
 
-Using pseudo-classes for interactivity
+### 🧩 6TH NOVEMBER – BOOTSTRAP COMPONENTS
 
-Adding tooltips, transitions, and animations
+**WHAT I LEARNED:**  
+- Using components like **Carousel, Progress Bar, Cards**  
+- Enhancing UI with **reusable and responsive elements**
 
-Understanding box-sizing and UI enhancements
+**💡 PRACTICE TASK :**  
+Refine the **portfolio webpage** using Bootstrap components.
 
-💡 Practice Task:
-Animate an element to move diagonally using CSS transitions and transforms.
+## 🛠️ TTECHNOLOGIES :
 
-📱 3rd November – Responsive Web Design
-
-What I Learned:
-
-Core principles of Responsive Design
-
-Using media queries and CSS filters
-
-Making layouts adapt to different screen sizes
-
-💡 Practice Task:
-Build a responsive card UI with title, image, and hover effects.
-
-🧮 5th November – Introduction to Bootstrap
-
-What I Learned:
-
-Basics of Bootstrap framework
-
-Using Bootstrap’s grid system
-
-Building responsive pages using prebuilt classes
-
-💡 Practice Task:
-Create a portfolio webpage using Bootstrap.
-
-🧰 6th November – Bootstrap Components
-
-What I Learned:
-
-Working with Bootstrap components like Carousel, Progress Bar, and Cards
-
-Enhancing UI design with reusable and responsive elements
-
-💡 Practice Task:
-Refine the portfolio webpage using Bootstrap components.
-
-🛠️ Tools & Technologies
-Technology	Purpose
-🧾 HTML5	Structure of web pages
-🎨 CSS3	Styling and visual design
-🧱 Flexbox & Grid	Page layout and structure
-📱 Responsive Design	Mobile-friendly pages
-✨ CSS Animations & Transitions	Adding interactivity
-🧩 Bootstrap	Prebuilt UI framework
-💻 VS Code + Live Server	Development & live preview
+  📝 **HTML5** : Page structure 
+  🎨 **CSS3** : Styling and visual design 
+  📐 **Flexbox & Grid** : Layout management 
+  📲 **Responsive Design** : Mobile-friendly pages 
+  🌈 **CSS Animations & Transitions** : Adding interactivity 
+  🏗️ **Bootstrap** : Prebuilt UI framework 
+  💻 **VS Code + Live Server** : Coding and live preview 
