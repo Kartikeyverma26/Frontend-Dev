@@ -1,13 +1,13 @@
-# 🌟 FRONTEND DEVELOPMENT JOURNEY
+# 🌟 FRONTEND DEVELOPMENT JOURNEY 
 
-**Mentors/Trainers:** **Sahil Kumar & Deepak Prasad**
+**Mentors/Trainers :** **Sahil Kumar & Deepak Prasad**
 
 The main aim of this training was for me to **learn how websites are actually built** — from the **structure with HTML**, to **styling with CSS**, and finally making everything **responsive using Bootstrap**.  
 Through this training, I learned how to **create interactive, mobile-friendly web pages** that look good and work smoothly on **any device**.
 
 ## 📖 OVERVIEW :
 
-The goal of this training was to understand **how websites are built** — starting with **structure (HTML)**, **styling (CSS)**, and finally making pages **responsive using Bootstrap**.
+The main goal of this training was to understand **how websites are built** — starting with **structure (HTML)**, **styling (CSS)**, and finally making pages **responsive using Bootstrap**.
 I learned how to create **interactive, mobile-friendly web pages** that work smoothly on any device.
 
 ## 🗓️ LEARNING JOURNEY :
@@ -99,14 +99,21 @@ Create a **portfolio webpage** using Bootstrap.
 
 **💡 PRACTICE TASK :**  
 
-Refine the **portfolio webpage** using Bootstrap components.
+ - Refine the **portfolio webpage** using Bootstrap components.
 
 ## 🛠️ TECHNOLOGIES :
 
-  📝 **HTML5** : Page structure 
-  🎨 **CSS** : Styling and visual design 
-  📐 **Flexbox & Grid** : Layout management 
-  📲 **Responsive Design** : Mobile-friendly pages 
-  🌈 **CSS Animations & Transitions** : Adding interactivity 
-  🏗️ **Bootstrap** : Prebuilt UI framework 
-  💻 **VS Code + Live Server** : Coding and live preview 
+📝 **HTML5** – This is basically the structure of a webpage, like the skeleton.  
+
+🎨 **CSS** – All the styling stuff, colors, fonts, making things look nice.  
+
+📐 **Flexbox & Grid** – Helps with layout, like arranging elements neatly on the page.  
+
+📲 **Responsive Design** – Makes sure your site looks good on phones and tablets too.  
+
+🌈 **CSS Animations & Transitions** – Adds some interactivity, like hover effects and smooth animations.  
+
+🏗️ **Bootstrap** – A ready-made UI framework that saves time with components and grids.  
+
+💻 **VS Code + Live Server** – Where I write code and see live updates instantly.
+
