@@ -2,7 +2,7 @@
 
 **Mentors/Trainers :** **Sahil Kumar & Deepak Prasad**
 
-The main aim of this training was for me to **learn how websites are actually built** — from the **structure with HTML**, to **styling with CSS**, and finally making everything **responsive using Bootstrap**.  
+The main aim of this training was for me to **learn how websites are actually built** starting from the **structure with HTML**then to **styling with CSS** and finally making everything **responsive using Bootstrap**.  
 Through this training, I learned how to **create interactive, mobile-friendly web pages** that look good and work smoothly on **any device**.
 
 ## 📖 OVERVIEW :
@@ -14,7 +14,8 @@ I learned how to create **interactive, mobile-friendly web pages** that work smo
 
 ### 🖥️ 9TH OCTOBER – GETTING STARTED WITH WEB DEVELOPMENT
 
-**WHAT I LEARNED :**  
+**WHAT I LEARNED :** 
+
 - The 3-layer structure: **Frontend, Backend, Database**  
 - HTML Basics: **headings, paragraphs, tables, images**  
 - Understanding **localhost, ports, and IP rendering**  
