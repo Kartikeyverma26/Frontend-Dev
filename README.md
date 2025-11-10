@@ -5,7 +5,7 @@
 The goal of this training was for me to **learn how websites are actually built** — from the **structure with HTML**, to **styling with CSS**, and finally making everything **responsive using Bootstrap**.  
 Through this training, I learned how to **create interactive, mobile-friendly web pages** that look good and work smoothly on **any device**.
 
-## 📖 OVERVIEW
+## 📖 OVERVIEW :
 
 The goal of this training was to understand **how websites are built** — starting with **structure (HTML)**, **styling (CSS)**, and finally making pages **responsive using Bootstrap**.
 I learned how to create **interactive, mobile-friendly web pages** that work smoothly on any device.
@@ -33,9 +33,7 @@ Create a **timetable** using the `<table>` tag and preview it in the browser wit
 - Making **HTML forms** with input types like text, password, checkbox
 
 **💡 PRACTICE TASK:**  
-Build a **registration form** with various input fields and a submit button.
-
----
+      Build a **registration form** with various input fields and a submit button.
 
 ### 🎨 13TH OCTOBER – INTRODUCTION TO CSS
 
@@ -45,14 +43,13 @@ Build a **registration form** with various input fields and a submit button.
 - Display properties: **inline, block, inline-block**  
 - Basics of **positioning and layout**
 
-**💡 PRACTICE TASK:**  
-Design a **simple webpage** using internal & external CSS with **margins, padding, and positioning**.
+**💡 PRACTICE TASK :**  
 
----
+Design a **simple webpage** using internal & external CSS with **margins, padding, and positioning**.
 
 ### 🔲 30TH OCTOBER – FLEXBOX, GRID & BOX MODEL
 
-**WHAT I LEARNED:**  
+**WHAT I LEARNED :**  
 - Using **Flexbox and CSS Grid** for layouts  
 - Deep dive into **Box Model**: borders, padding, width, height  
 - Adding **gradients, shadows, CSS transformations**
@@ -90,13 +87,13 @@ Build a **responsive card UI** with title, image, and hover effects.
 - **Bootstrap basics** and grid system  
 - Building **responsive pages** using prebuilt classes
 
-**💡 PRACTICE TASK:** 
+**💡 PRACTICE TASK :** 
 
 Create a **portfolio webpage** using Bootstrap.
 
 ### 🧩 6TH NOVEMBER – BOOTSTRAP COMPONENTS
 
-**WHAT I LEARNED:**  
+**WHAT I LEARNED :**  
 - Using components like **Carousel, Progress Bar, Cards**  
 - Enhancing UI with **reusable and responsive elements**
 
