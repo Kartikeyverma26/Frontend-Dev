@@ -55,20 +55,20 @@ Design a **simple webpage** using internal & external CSS with **margins, paddin
 - Deep dive into **Box Model**: borders, padding, width, height  
 - Adding **gradients, shadows, CSS transformations**
 
-**💡 PRACTICE TASK:**  
-Create a **calculator layout** using CSS Grid.
+**💡 PRACTICE TASK :**  
 
----
+Create a **Portal** using CSS Grid.
 
 ### ✨ 31ST OCTOBER – ADVANCED CSS & ANIMATIONS
 
-**WHAT I LEARNED:**  
+**WHAT I LEARNED :**  
+
 - Using **pseudo-classes** for interactivity  
 - Adding **tooltips, transitions, animations**  
 - Understanding **box-sizing** and UI enhancements
 
 **💡 PRACTICE TASK:**  
-Animate an element to **move diagonally** using CSS **transitions and transforms**.
+Animate an element to **Flex Box** using CSS **transitions and transforms**.
 
 ### 📱 3RD NOVEMBER – RESPONSIVE WEB DESIGN
 
@@ -79,7 +79,7 @@ Animate an element to **move diagonally** using CSS **transitions and transforms
 
 **💡 PRACTICE TASK :**  
 
-Build a **responsive card UI** with title, image, and hover effects.
+Build a **animation style** with title, image, and hover effects.
 
 ### 🏗️ 5TH NOVEMBER – INTRODUCTION TO BOOTSTRAP
 
@@ -90,7 +90,7 @@ Build a **responsive card UI** with title, image, and hover effects.
 
 **💡 PRACTICE TASK :** 
 
-Create a **portfolio webpage** using Bootstrap.
+Create a **responsive card ui** using Bootstrap.
 
 ### 🧩 6TH NOVEMBER – BOOTSTRAP COMPONENTS
 
