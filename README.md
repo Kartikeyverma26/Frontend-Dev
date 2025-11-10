@@ -1,34 +1,32 @@
 # 🌟 FRONTEND DEVELOPMENT JOURNEY
 
-**Mentors:** **Sahil Kumar & Deepak Prasad**
+**Mentors/Trainers:** **Sahil Kumar & Deepak Prasad**
 
-This repository tracks my complete journey in **Frontend Web Development**, from **HTML & CSS basics** to **Responsive Design, Flexbox, CSS Grid**, and **Bootstrap**.  
-Each session includes **hands-on tasks** to strengthen practical skills.
+The goal of this training was for me to **learn how websites are actually built** — from the **structure with HTML**, to **styling with CSS**, and finally making everything **responsive using Bootstrap**.  
+Through this training, I learned how to **create interactive, mobile-friendly web pages** that look good and work smoothly on **any device**.
 
 ## 📖 OVERVIEW
 
 The goal of this training was to understand **how websites are built** — starting with **structure (HTML)**, **styling (CSS)**, and finally making pages **responsive using Bootstrap**.
-
 I learned how to create **interactive, mobile-friendly web pages** that work smoothly on any device.
 
-## 🗓️ LEARNING JOURNEY
+## 🗓️ LEARNING JOURNEY :
 
 ### 🖥️ 9TH OCTOBER – GETTING STARTED WITH WEB DEVELOPMENT
 
-**WHAT I LEARNED:**  
+**WHAT I LEARNED :**  
 - The 3-layer structure: **Frontend, Backend, Database**  
 - HTML Basics: **headings, paragraphs, tables, images**  
 - Understanding **localhost, ports, and IP rendering**  
 - Setting up **VS Code** and using **Live Server**
 
 **💡 PRACTICE TASK:**  
-Create a **timetable** using the `<table>` tag and preview it in the browser with Live Server.
 
----
+Create a **timetable** using the `<table>` tag and preview it in the browser with Live Server.
 
 ### 📋 10TH OCTOBER – HTML ELEMENTS & FORMS
 
-**WHAT I LEARNED:**  
+**WHAT I LEARNED :**  
 - Difference between **block and inline elements**  
 - Using **attributes** and designing page layouts  
 - Creating **tables, lists, dropdowns**  
@@ -74,8 +72,6 @@ Create a **calculator layout** using CSS Grid.
 **💡 PRACTICE TASK:**  
 Animate an element to **move diagonally** using CSS **transitions and transforms**.
 
----
-
 ### 📱 3RD NOVEMBER – RESPONSIVE WEB DESIGN
 
 **WHAT I LEARNED:**  
@@ -83,21 +79,20 @@ Animate an element to **move diagonally** using CSS **transitions and transforms
 - Using **media queries** and **CSS filters**  
 - Making layouts adapt to **different screen sizes**
 
-**💡 PRACTICE TASK:**  
-Build a **responsive card UI** with title, image, and hover effects.
+**💡 PRACTICE TASK :**  
 
----
+Build a **responsive card UI** with title, image, and hover effects.
 
 ### 🏗️ 5TH NOVEMBER – INTRODUCTION TO BOOTSTRAP
 
-**WHAT I LEARNED:**  
+**WHAT I LEARNED :**  
+
 - **Bootstrap basics** and grid system  
 - Building **responsive pages** using prebuilt classes
 
-**💡 PRACTICE TASK:**  
-Create a **portfolio webpage** using Bootstrap.
+**💡 PRACTICE TASK:** 
 
----
+Create a **portfolio webpage** using Bootstrap.
 
 ### 🧩 6TH NOVEMBER – BOOTSTRAP COMPONENTS
 
@@ -106,12 +101,13 @@ Create a **portfolio webpage** using Bootstrap.
 - Enhancing UI with **reusable and responsive elements**
 
 **💡 PRACTICE TASK :**  
+
 Refine the **portfolio webpage** using Bootstrap components.
 
-## 🛠️ TTECHNOLOGIES :
+## 🛠️ TECHNOLOGIES :
 
   📝 **HTML5** : Page structure 
-  🎨 **CSS3** : Styling and visual design 
+  🎨 **CSS** : Styling and visual design 
   📐 **Flexbox & Grid** : Layout management 
   📲 **Responsive Design** : Mobile-friendly pages 
   🌈 **CSS Animations & Transitions** : Adding interactivity 
