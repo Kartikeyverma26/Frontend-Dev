@@ -1,12 +1,12 @@
 # 🌟 My Frontend Development Journey  
 **Mentors / Trainers :** Sahil Kumar & Deepak Prasad  
 
-This training helped me understand how websites are actually made from building the structure with **HTML**, styling it with **CSS**, and finally making everything look good and work smoothly on all screens using **Bootstrap**.  
+This training helped me understand how websites are actually made from building the structure with *HTML*, styling it with *CSS*, and finally making everything look good and work smoothly on all screens using *Bootstrap*.  
 Throughout the sessions, I learned how to create clean, responsive, and interactive web pages that adjust perfectly on mobile, tablet, and desktop devices.  
 
 ## 📖 Overview :
 
-The goal of this training was to learn the basics of web development — starting from **HTML (structure)**, then **CSS (design)**, and finally **Bootstrap (responsiveness)**.  
+The goal of this training was to learn the basics of web development starting from *HTML (structure)*, then *CSS (design)*, and finally *Bootstrap (responsiveness)*.  
 By the end, I was able to create complete web pages that are both visually appealing and user-friendly. 
 
 ## 🗓️ My Learning Journey :
