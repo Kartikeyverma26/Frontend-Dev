@@ -123,8 +123,6 @@ By the end, I was able to create complete web pages that are both visually appea
   
 - 💻 **VS Code + Live Server** – For writing and previewing code instantly
 
-  # 💻 JavaScript Learning Journey (Markdown Terminal Style)
-
 ## ► 10th November – JavaScript Introduction & Fundamentals
 
 **Topics Covered**
@@ -142,8 +140,6 @@ By the end, I was able to create complete web pages that are both visually appea
   - Loops → for, while, do…while  
 - Math object for calculations
 
----
-
 ## ► 12th November – Scope, Events, Strings & Arrays
 
 **Topics Covered**
@@ -157,8 +153,6 @@ By the end, I was able to create complete web pages that are both visually appea
 - Take user string input  
 - Convert it into array using `.split()`  
 - Display both string + array on webpage using events
-
----
 
 ## ► 13th November – DOM, Hoisting, Functions & Arrow Functions
 
@@ -183,9 +177,7 @@ By the end, I was able to create complete web pages that are both visually appea
 **Practical Tasks**
 - Counter Application  
 - Image Resize Application
-
----
-
+- 
 ## ► 17th November – ES6 Classes, Objects & Responsive UI
 
 **Topics Covered**
@@ -205,9 +197,7 @@ By the end, I was able to create complete web pages that are both visually appea
 - Hamburger Menu + Responsive Sidebar using JS  
 - Show/Hide sidebar using events  
 - Media queries + DOM toggle functionality
-
----
-
+- 
 ## ► 19th November – Objects, Forms, Validation & Asynchronous JS
 
 **Topics Covered**
@@ -239,12 +229,9 @@ By the end, I was able to create complete web pages that are both visually appea
   - Style output section  
 - Only **Pure JavaScript**, no libraries
 
----
+## ✔️ JavaScript Journey Summary : 
 
-## ✔️ JavaScript Journey Summary
 This journey helped me understand how JavaScript gives life to webpages through DOM manipulation, events, functions, objects, classes, and asynchronous logic. These concepts now allow me to create dynamic, responsive, and user-interactive web applications.
-
-
 
 ⭐ **This journey gave me a solid foundation in frontend development and boosted my confidence to start building real-world web projects.**
 
